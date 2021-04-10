@@ -1,3 +1,5 @@
+## FIZZBUZZ Code
+
 x = int(input("Enter the number: "))
 
 l = []
