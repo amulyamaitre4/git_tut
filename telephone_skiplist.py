@@ -5,7 +5,6 @@
 
 import random
 
-
 class Node(object):  # Node class
     def __init__(self, key, level):
         self.key = key
